@@ -1,5 +1,5 @@
 project: rnshah9/ptsh
-target: ptsh
+target: ptcp
 
 cmds:
   - cmd: /repo/build/bin/ptcp @@ out
