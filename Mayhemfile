@@ -1,4 +1,4 @@
-project: rnshah9/ptsh
+project: ptsh
 target: ptcp
 
 cmds:
