@@ -2,4 +2,4 @@ project: ptsh
 target: ptcp
 
 cmds:
-  - cmd: /repo/build/bin/ptcp @@ out
+  - cmd: /install/usr/bin/ptcp @@ out
